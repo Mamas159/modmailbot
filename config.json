@@ -4,6 +4,11 @@
   "mainGuildId": "557583813249728523",
   "logChannelId": "557609422969372672",
   "newThreadCategoryId": "557621119000117258",
+  "mentionRole": "557599206462849025",
+  "closeMessage": "true",
+  "inboxServerPermission": "true",
+  "typingProxy": "true",
+  "typingProxyReverse": "true",
 
   "status": "راسلني عل الخاص لمساعتك M!Helper",
   "responseMessage": "شكرا لرسالتك! سيقوم فريق المساعدة بالرد عليك هنا في أقرب وقت ممكن."
