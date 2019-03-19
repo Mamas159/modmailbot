@@ -3,6 +3,7 @@
   "mailGuildId": "557583813249728523",
   "mainGuildId": "557583813249728523",
   "logChannelId": "557609422969372672",
+  "mentionRole": "Helper",
 
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
