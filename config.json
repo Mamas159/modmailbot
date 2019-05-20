@@ -1,14 +1,14 @@
 {
-  "token": "NTU3NjE2ODk3NDEyMDM4NjU3.XNjNVg.hNxAhPefhaEd5bNlhjqkc8t359I",
-  "mailGuildId": "576104334803337237",
-  "mainGuildId": "576104334803337237",
-  "logChannelId": "576104334803337237",
-  "newThreadCategoryId": "559864207705767961",
+  "token": "NTgwMTM4MjA0NzU4Mjc4MTQ1.XOMWJg.XnV13IwYPVQ_zKBBsELDWwCHpTg",
+  "mailGuildId": "565570823809794088",
+  "mainGuildId": "565570823809794088",
+  "logChannelId": "580137142819487744",
+  "newThreadCategoryId": "580136815097413655",
   "mentionRole": "@here",
   "closeMessage": " :white_check_mark: تمت مساعدتك بنجاح لقد تم اغلاق هده محادتة",
   "typingProxy": "true",
   "typingProxyReverse": "true",
 
-  "status": "راسلني عل الخاص لمساعتك M!Helper",
+  "status": "راسلني عل الخاص لمساعتك #[Nitro | Helper]",
   "responseMessage": " :hand_splayed: شكرا لرسالتك! سيقوم فريق المساعدة بالرد عليك هنا في أقرب وقت ممكن."
 }
