@@ -1,14 +1,14 @@
 {
   "token": "NTk1MjIxODg1NTUwMzI5ODc4.XRpoCw.1RbYITgZUaaWXuVWJtl2Aqk-f6I",
-  "mailGuildId": "565570823809794088",
-  "mainGuildId": "565570823809794088",
-  "logChannelId": "580137142819487744",
-  "newThreadCategoryId": "580136815097413655",
+  "mailGuildId": "254538517621768192",
+  "mainGuildId": "254538517621768192",
+  "logChannelId": "591362754409922573",
+  "newThreadCategoryId": "592024610631843881",
   "mentionRole": "@here",
   "closeMessage": " :white_check_mark: تمت مساعدتك بنجاح لقد تم اغلاق هده محادتة",
   "typingProxy": "true",
   "typingProxyReverse": "true",
 
-  "status": "راسلني عل الخاص لمساعتك #[Nitro | Helper]",
-  "responseMessage": " :hand_splayed: شكرا لرسالتك! سيقوم فريق المساعدة بالرد عليك هنا في أقرب وقت ممكن."
+  "status": "DM Me for Help/Assistance",
+  "responseMessage": " :hand_splayed: Thank you for your ticket, staffs will shortly help you, please be patient."
 }
