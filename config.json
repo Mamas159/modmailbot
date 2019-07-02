@@ -3,9 +3,9 @@
   "mailGuildId": "254538517621768192",
   "mainGuildId": "254538517621768192",
   "logChannelId": "591362754409922573",
-  "newThreadCategoryId": "592024610631843881",
+  "newThreadCategoryId": "595347842504196137",
   "mentionRole": "@here",
-  "closeMessage": " :white_check_mark: تمت مساعدتك بنجاح لقد تم اغلاق هده محادتة",
+  "closeMessage": " :white_check_mark: You've been successfully helped,ticket has been closed.",
   "typingProxy": "true",
   "typingProxyReverse": "true",
 
